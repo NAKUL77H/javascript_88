@@ -39,3 +39,8 @@ comment */
 
 
 
+
+// how to creata string in a java script
+// var str = "THIS IS A STRING IN JAVASCIPT"
+// console.log(str)
+
