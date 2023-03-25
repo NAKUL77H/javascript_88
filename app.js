@@ -79,3 +79,17 @@ comment */
 //     console.log("hello world")
 // }
 
+
+
+// scopes
+
+// global scope
+// var num = 8 ;
+// function add() {
+//     console.log(num + num);
+// }
+
+
+
+
+// dt why does local scope is used if 
