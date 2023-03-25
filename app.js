@@ -44,3 +44,11 @@ comment */
 // var str = "THIS IS A STRING IN JAVASCIPT"
 // console.log(str)
 
+
+
+// how to find the lenghth of string
+// var lastlength = 0 ;
+// var lastName = "BHARDWAJ"
+// lastlength = lastName.length;
+// console.log("lastlength")
+
