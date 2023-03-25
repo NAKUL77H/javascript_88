@@ -93,3 +93,23 @@ comment */
 
 
 // dt why does local scope is used if 
+
+
+
+
+
+
+//  if  and else statement
+// var myVal = 9 ;
+// function checker(){
+    // if (myVal == 9){
+        // return true
+    // }
+    // else {
+        //  return false;
+    }
+   
+// }
+
+
+// 
