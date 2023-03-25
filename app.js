@@ -52,3 +52,21 @@ comment */
 // lastlength = lastName.length;
 // console.log("lastlength")
 
+
+
+// push
+// var ourArray = ["Nakul","light"]
+// ourArray.push(["VSnakul",Dark])
+
+// pop
+// var ourArray = [1,2,3];
+// var RemovedArray = ourArray.pop();
+
+// shift
+// it removes the first elemnt
+
+
+// unshift
+// it add elemnts to 1st posi
+
+
