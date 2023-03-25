@@ -70,3 +70,12 @@ comment */
 // it add elemnts to 1st posi
 
 
+
+// nested list
+
+
+// functions
+// function sum(){
+//     console.log("hello world")
+// }
+
