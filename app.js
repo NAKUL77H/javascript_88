@@ -107,9 +107,27 @@ comment */
     // }
     // else {
         //  return false;
-    }
+    // }
    
 // }
 
 
 // 
+
+
+
+
+
+
+// objects
+
+// var myDog = {
+//     "name": "Nakul",
+//     "class": 5,
+//     "Type": "milf"
+// }
+// how to use objects
+// var gtr = myDog.name;
+// if the name was NAKUL BHARDWAJ
+// we use
+// var gtr = myDog["NAKUL BHARDWAJ"]
