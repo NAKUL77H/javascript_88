@@ -151,3 +151,11 @@ comment */
 //   i++;
 // }
 // console.log(myArray);
+
+
+
+// for loop
+// var myArray = [];
+// for (i = 0;i < 5,i++) {
+    
+}
