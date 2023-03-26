@@ -221,3 +221,19 @@ comment */
 // hellon = () => {
 //     return "hello world"
 // }
+
+
+// filter command
+// filter array and selets the selected fliter
+// const array1 = [2,4,5,6,7,8,9,0,1]
+// const sqrlist = (arr) => {
+    // const sqrint = arr.filter(num => Number.isInteger(num) && num > 0).map(x =>
+    // });
+// const sqrint = sqrlist(array);
+// console.log(sqrint)
+
+
+// rest operator
+// denoted by 3 dots 
+// ...
+// it denotes function para
