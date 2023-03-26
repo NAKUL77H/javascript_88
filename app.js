@@ -172,3 +172,14 @@ comment */
     // i++;
 // } while (i < 5);
 // console.log(i,myArray);
+
+
+
+
+
+
+// function randomFraction() {
+//     retun Math.random();
+
+// }
+// console.log(randomFraction());
