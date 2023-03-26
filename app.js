@@ -131,3 +131,23 @@ comment */
 // if the name was NAKUL BHARDWAJ
 // we use
 // var gtr = myDog["NAKUL BHARDWAJ"]
+
+
+
+// properties of objects
+// del add modify
+// del
+// delete myDog.name
+
+
+
+
+
+// while loop
+// var myArray = [];
+// var i = 0;
+// while(i < 5); { 
+//   myArray.push(i);
+//   i++;
+// }
+// console.log(myArray);
