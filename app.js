@@ -157,5 +157,18 @@ comment */
 // for loop
 // var myArray = [];
 // for (i = 0;i < 5,i++) {
-    
-}
+// }
+// console.log(myArray)
+
+
+
+// do while loops
+// even the cond of while is not true the loop the 
+// runned once
+// var myArray = [];
+// var i = 0;
+// do {
+    // myArray.psuh(i);
+    // i++;
+// } while (i < 5);
+// console.log(i,myArray);
