@@ -183,3 +183,41 @@ comment */
 
 // }
 // console.log(randomFraction());
+
+
+
+// parseInt function converts string into int
+// function convert (str) {
+    // return parseInt(str);
+// }
+// convert("56")
+
+
+
+
+
+// var can be declared many time in same scope 
+// but let cannot be used
+//  let can only be used in the defined block
+// function abc(){
+    // let age = 18;
+}
+// console.log(abc)  This shows error bcz let is not in the block scope
+
+
+// const is only read 
+// it cannot be edited
+
+
+
+
+// arrow function 
+// short hand syntax for arrow function
+// hello = function() {
+//     return "hello world"
+// }
+
+// converting it into arrow function
+// hellon = () => {
+//     return "hello world"
+// }
